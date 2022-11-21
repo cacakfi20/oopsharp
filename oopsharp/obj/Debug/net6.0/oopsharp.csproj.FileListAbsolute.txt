@@ -1,0 +1,15 @@
+C:\Users\cacakfi20\RiderProjects\oopsharp\oopsharp\bin\Debug\net6.0\oopsharp.exe
+C:\Users\cacakfi20\RiderProjects\oopsharp\oopsharp\bin\Debug\net6.0\oopsharp.deps.json
+C:\Users\cacakfi20\RiderProjects\oopsharp\oopsharp\bin\Debug\net6.0\oopsharp.runtimeconfig.json
+C:\Users\cacakfi20\RiderProjects\oopsharp\oopsharp\bin\Debug\net6.0\oopsharp.dll
+C:\Users\cacakfi20\RiderProjects\oopsharp\oopsharp\bin\Debug\net6.0\oopsharp.pdb
+C:\Users\cacakfi20\RiderProjects\oopsharp\oopsharp\obj\Debug\net6.0\oopsharp.csproj.AssemblyReference.cache
+C:\Users\cacakfi20\RiderProjects\oopsharp\oopsharp\obj\Debug\net6.0\oopsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cacakfi20\RiderProjects\oopsharp\oopsharp\obj\Debug\net6.0\oopsharp.AssemblyInfoInputs.cache
+C:\Users\cacakfi20\RiderProjects\oopsharp\oopsharp\obj\Debug\net6.0\oopsharp.AssemblyInfo.cs
+C:\Users\cacakfi20\RiderProjects\oopsharp\oopsharp\obj\Debug\net6.0\oopsharp.csproj.CoreCompileInputs.cache
+C:\Users\cacakfi20\RiderProjects\oopsharp\oopsharp\obj\Debug\net6.0\oopsharp.dll
+C:\Users\cacakfi20\RiderProjects\oopsharp\oopsharp\obj\Debug\net6.0\refint\oopsharp.dll
+C:\Users\cacakfi20\RiderProjects\oopsharp\oopsharp\obj\Debug\net6.0\oopsharp.pdb
+C:\Users\cacakfi20\RiderProjects\oopsharp\oopsharp\obj\Debug\net6.0\oopsharp.genruntimeconfig.cache
+C:\Users\cacakfi20\RiderProjects\oopsharp\oopsharp\obj\Debug\net6.0\ref\oopsharp.dll
